@@ -12,8 +12,8 @@
 - 💻 Linguagens: HTML, CSS, JavaScript, C++, PHP
 - 🚀 Sempre em busca de desafios novos e aprendizado constante
 
-  ## Onde Me Encontrar
-- 📫 Você pode me contatar em:
+  ## Você pode me contatar em:
+ 
  <p>
   <a href="https://www.instagram.com/alinenasc1mento/">
     <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" width="130" height="auto" >
