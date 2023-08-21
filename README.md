@@ -3,7 +3,7 @@
 <head>
   <style>
     body {
-      background: linear-gradient(rgba(17, 77, 96, 1), rgba(0, 0, 0, 1));
+      background: black;
       color: white;
       font-family: Arial, sans-serif;
     }
