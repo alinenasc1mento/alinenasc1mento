@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <div style="background: linear-gradient(to bottom, #114d60, #000000); color: #000;">
   <h1 text-align: center;">Olá 👋👋👋</h1>
-
-  <h2> Habilidades</h2>
-  <p>👩‍💻 Dev Front-End</p>
+ 
 
 <img src="https://i.postimg.cc/GhMyrY47/linguagem.png" width="250" height="auto">
-
+ <p>👩‍💻 Dev Front-End</p>
   <p>🚀 Sempre em busca de desafios novos </p>
 
   <h2 style="color: #114d60;">Contato:</h2>
