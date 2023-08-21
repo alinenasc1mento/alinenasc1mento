@@ -12,18 +12,11 @@
 - 💻 Linguagens: HTML, CSS, JavaScript, C++, PHP
 - 🚀 Sempre em busca de desafios novos e aprendizado constante
 
-## Onde Me Encontrar
- <a href="https://wa.me/21974034310">
-  <img src="https://via.placeholder.com/48x48/114d60/000000?text=+" alt="WhatsApp Normal" onmouseover="this.src='https://via.placeholder.com/48x48/114d60/000000?text=Hover WhatsApp'" onmouseout="this.src='https://via.placeholder.com/48x48/114d60/000000?text=+'">
-</a>
-
-<a href="mailto:poeiraestelar1@gmail.com">
-  <img src="https://postimg.cc/KRkhCrt1" alt="Gmail Normal" onmouseover="this.src='https://postimg.cc/56hWJYmn'" onmouseout="this.src='https://postimg.cc/KRkhCrt1'">
-</a>
-
-<a href="https://www.instagram.com/alinenasc1mento/">
-  <img src="https://postimg.cc/k2W3gJ19" alt="Instagram Normal" onmouseover="this.src='https://postimg.cc/d7vM7bpC'" onmouseout="this.src='https://postimg.cc/k2W3gJ19'">
-</a>
+  ## Onde Me Encontrar
+- 📫 Você pode me contatar em:
+  - [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/21974034310)
+  - [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:poeiraestelar1@gmail.com)
+  - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alinenasc1mento/)
 
 ## Contribuições
 - 🌱 Estou sempre disposta a colaborar em projetos open source.
