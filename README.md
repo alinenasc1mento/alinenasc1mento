@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-![Fundo](https://via.placeholder.com/800x600/999999/666666?text=+)
+![Fundo](https://via.placeholder.com/800x600/114d60/000000?text=+)
  
 # Olá 👋👋👋
 
