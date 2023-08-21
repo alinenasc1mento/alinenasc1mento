@@ -2,7 +2,7 @@
 <div style="background: linear-gradient(to bottom, #114d60, #000000); color: #000;">
   <h1 text-align: center;">Olá 👋👋👋</h1>
 
-👩‍💻🚀🎮🌌
+👩🏻‍💻🚀🎮🌌
  
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinenasc1mento&theme=tokyonight&show_icons=true" />
