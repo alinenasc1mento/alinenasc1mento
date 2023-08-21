@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <div style="background: linear-gradient(to bottom, #114d60, #000000); color: #000;">
-  <h1 style="color: #114d60; text-align: center;">Olá 👋👋👋</h1>
-
-  <h2>Sobre Mim</h2>
-  <p>🌍 Moro no RJ</p>
-  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
+  <h1 text-align: center;">Olá 👋👋👋</h1>
 
   <h2>Minhas Habilidades</h2>
   <p>👩‍💻 Dev Front-End</p>
