@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/alinenasc1mento/">
-    <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" alt="Ícone do Instagram" width="100" height="auto" onmouseover="this.src='https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png'" onmouseout="this.src='https://i.postimg.cc/VkVY45XS/iconeinstagram.png'">
+    <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" alt="Ícone do Instagram" width="130" height="auto" onmouseover="this.src='https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png'" onmouseout="this.src='https://i.postimg.cc/VkVY45XS/iconeinstagram.png'">
   </a>
 </p>
 
