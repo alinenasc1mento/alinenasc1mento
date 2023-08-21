@@ -9,7 +9,7 @@
   <h2>Minhas Habilidades</h2>
   <p>👩‍💻 Dev Front-End</p>
 
-[![linguagem.png](https://i.postimg.cc/GhMyrY47/linguagem.png)](https://postimg.cc/56C0SXqL)
+<img src="https://i.postimg.cc/GhMyrY47/linguagem.png" width:"250" height="auto">
 
 
   <p>💻 Linguagens: HTML, CSS, JavaScript, PHP</p>
