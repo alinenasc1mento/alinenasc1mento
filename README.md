@@ -11,8 +11,6 @@
 
 <img src="https://i.postimg.cc/GhMyrY47/linguagem.png" width="250" height="auto">
 
-
-  <p>💻 Linguagens: HTML, CSS, JavaScript, PHP</p>
   <p>🚀 Sempre em busca de desafios novos </p>
 
   <h2 style="color: #114d60;">Você pode me contatar em:</h2>
