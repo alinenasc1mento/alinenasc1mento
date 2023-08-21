@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('https://via.placeholder.com/800x600/114d60/000000?text=+'); background-size: cover; background-repeat: no-repeat; padding: 200px 0;">
+<div  style="background-image: url('https://via.placeholder.com/800x600/114d60/000000?text=+'); background-size: cover; background-repeat: no-repeat; padding: 200px 0;">
 
 # Olá 👋👋👋
 
