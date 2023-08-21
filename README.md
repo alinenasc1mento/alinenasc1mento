@@ -1,16 +1,5 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      background: black;
-      color: white;
-      font-family: Arial, sans-serif;
-    }
-  </style>
-</head>
-<body>
-
+ 
 # Olá 👋👋👋
 
 ## Sobre Mim
