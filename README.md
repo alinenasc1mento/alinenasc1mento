@@ -7,7 +7,7 @@
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
 
   <h2 style="color: #114d60;">Minhas Habilidades</h2>
-  <p>👩‍💻 Desenvolvedora Front-End</p>
+  <p>👩‍💻 Dev Front-End</p>
   <p>💻 Linguagens: HTML, CSS, JavaScript, C++, PHP</p>
   <p>🚀 Sempre em busca de desafios novos e aprendizado constante</p>
 
