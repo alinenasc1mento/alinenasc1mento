@@ -9,7 +9,7 @@
 
   <p>🚀 Sempre em busca de desafios novos </p>
 
-  <h2 style="color: #114d60;">Você pode me contatar em:</h2>
+  <h2 style="color: #114d60;">Contato:</h2>
   <p>
     <a href="https://www.instagram.com/alinenasc1mento/">
       <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" width="130" height="auto">
