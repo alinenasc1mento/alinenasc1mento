@@ -18,7 +18,7 @@
   - [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:poeiraestelar1@gmail.com)
   - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alinenasc1mento/)
 
-(https://postimg.cc/d7vM7bpC)
+[![iconeinstagram2.png](https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png)](https://postimg.cc/d7vM7bpC)
 
 ## Contribuições
 - 🌱 Estou sempre disposta a colaborar em projetos open source.
