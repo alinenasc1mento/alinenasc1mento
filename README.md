@@ -15,7 +15,7 @@
 ## Onde Me Encontrar
 - 📫 Você pode me contatar em:
   - [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/21974034310)
-  - [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:poeiraestelar1@gmail.com)
+  - [![Email]([https://img.icons8.com/color/48/000000/email.png](https://www.imagemhost.com.br/image/rlWZva))](mailto:poeiraestelar1@gmail.com)
   - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alinenasc1mento/)
 
 ## Contribuições
