@@ -13,7 +13,7 @@
 
 
   <p>💻 Linguagens: HTML, CSS, JavaScript, PHP</p>
-  <p>🚀 Sempre em busca de desafios novos e aprendizado constante</p>
+  <p>🚀 Sempre em busca de desafios novos </p>
 
   <h2 style="color: #114d60;">Você pode me contatar em:</h2>
   <p>
