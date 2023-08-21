@@ -30,5 +30,5 @@
 
   <h2 style="color: #114d60;">Contribuições</h2>
   <p>🌱 Estou sempre disposta a colaborar em projetos open source.</p>
-  <p>💬 Pergunte-me sobre desenvolvimento web e programação, estarei feliz em ajudar.</p>
+   
 </div>
