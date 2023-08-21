@@ -1,5 +1,6 @@
-<div  style="background-image: url('https://via.placeholder.com/800x600/114d60/000000?text=+'); background-size: cover; background-repeat: no-repeat; padding: 200px 0;">
-
+<!DOCTYPE html>
+![Fundo](https://via.placeholder.com/800x600/114d60/000000?text=+)
+ 
 # Olá 👋👋👋
 
 ## Sobre Mim
@@ -21,4 +22,10 @@
 - 🌱 Estou sempre disposta a colaborar em projetos open source.
 - 💬 Pergunte-me sobre desenvolvimento web e programação, estarei feliz em ajudar.
 
-</div>
+ 
+
+ 
+ 
+
+</body>
+</html>
