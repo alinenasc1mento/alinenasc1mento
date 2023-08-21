@@ -2,13 +2,17 @@
 <div style="background: linear-gradient(to bottom, #114d60, #000000); color: #000;">
   <h1 style="color: #114d60; text-align: center;">Olá 👋👋👋</h1>
 
-  <h2 style="color: #114d60;">Sobre Mim</h2>
+  <h2>Sobre Mim</h2>
   <p>🌍 Moro no RJ</p>
   <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
 
-  <h2 style="color: #114d60;">Minhas Habilidades</h2>
+  <h2>Minhas Habilidades</h2>
   <p>👩‍💻 Dev Front-End</p>
-  <p>💻 Linguagens: HTML, CSS, JavaScript, C++, PHP</p>
+
+[![linguagem.png](https://i.postimg.cc/GhMyrY47/linguagem.png)](https://postimg.cc/56C0SXqL)
+
+
+  <p>💻 Linguagens: HTML, CSS, JavaScript, PHP</p>
   <p>🚀 Sempre em busca de desafios novos e aprendizado constante</p>
 
   <h2 style="color: #114d60;">Você pode me contatar em:</h2>
