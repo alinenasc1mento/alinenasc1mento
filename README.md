@@ -11,26 +11,22 @@
 </head>
 <body>
 
-# Olá, sou Aline Nascimento 👋
+# Olá 👋👋👋
 
 ## Sobre Mim
-- 🌍 Morando em [Sua Cidade, Seu País]
+- 🌍 Moro no RJ
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 ## Minhas Habilidades
+- 👩‍💻 Desenvolvedora Front-End
 - 💻 Linguagens: HTML, CSS, JavaScript, C++, PHP
-- 🚀 Apaixonada por desenvolvimento web e programação
-
-## Projetos
-- 💼 [Projeto 1](Link para o Projeto): Descrição breve do projeto e suas realizações.
-- 💼 [Projeto 2](Link para o Projeto): Descrição breve do projeto e suas realizações.
-- 💼 [Projeto 3](Link para o Projeto): Descrição breve do projeto e suas realizações.
+- 🚀 Sempre em busca de desafios novos e aprendizado constante
 
 ## Onde Me Encontrar
 - 📫 Você pode me contatar em:
-  - Email: [Seu Endereço de E-mail]
-  - WhatsApp: [Seu Número de WhatsApp]
-- 🌐 [Sua Rede Social Favorita] (Link para o perfil)
+  - [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/21974034310)
+  - [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:poeiraestelar1@gmail.com)
+  - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alinenasc1mento/)
 
 ## Contribuições
 - 🌱 Estou sempre disposta a colaborar em projetos open source.
