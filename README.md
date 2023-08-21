@@ -1,43 +1,30 @@
 <!DOCTYPE html>
-![Fundo](https://via.placeholder.com/800x600/114d60/000000?text=+)
- 
-# Olá 👋👋👋
+<div style="background: linear-gradient(to bottom, #114d60, #000000); color: #000;">
+  <h1 style="color: #114d60; text-align: center;">Olá 👋👋👋</h1>
 
-## Sobre Mim
-- 🌍 Moro no RJ
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+  <h2 style="color: #114d60;">Sobre Mim</h2>
+  <p>🌍 Moro no RJ</p>
+  <p>🎓 Estudante de Análise e Desenvolvimento de Sistemas</p>
 
-## Minhas Habilidades
-- 👩‍💻 Desenvolvedora Front-End
-- 💻 Linguagens: HTML, CSS, JavaScript, C++, PHP
-- 🚀 Sempre em busca de desafios novos e aprendizado constante
+  <h2 style="color: #114d60;">Minhas Habilidades</h2>
+  <p>👩‍💻 Desenvolvedora Front-End</p>
+  <p>💻 Linguagens: HTML, CSS, JavaScript, C++, PHP</p>
+  <p>🚀 Sempre em busca de desafios novos e aprendizado constante</p>
 
-  ## Você pode me contatar em:
- 
- <p>
-  <a href="https://www.instagram.com/alinenasc1mento/">
-    <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" width="130" height="auto" >
-  </a>
+  <h2 style="color: #114d60;">Você pode me contatar em:</h2>
+  <p>
+    <a href="https://www.instagram.com/alinenasc1mento/">
+      <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" width="130" height="auto">
+    </a>
     <a href="mailto:poeiraestelar1@gmail.com">
-    <img src="https://i.postimg.cc/pXkVhsTJ/iconegmail.png" width="130" height="auto" 
-     </a>
+      <img src="https://i.postimg.cc/pXkVhsTJ/iconegmail.png" width="130" height="auto">
+    </a>
+    <a href="https://wa.me/21974034310">
+      <img src="https://i.postimg.cc/d1MJPXHw/iconewhatsapp.png" width="130" height="auto">
+    </a>
+  </p>
 
-<a href="https://wa.me/21974034310">
-    <img src="https://i.postimg.cc/d1MJPXHw/iconewhatsapp.png"width="130" height="auto" >
-</a>
-
-</p>
-
-
-
-## Contribuições
-- 🌱 Estou sempre disposta a colaborar em projetos open source.
-- 💬 Pergunte-me sobre desenvolvimento web e programação, estarei feliz em ajudar.
-
- 
-
- 
- 
-
-</body>
-</html>
+  <h2 style="color: #114d60;">Contribuições</h2>
+  <p>🌱 Estou sempre disposta a colaborar em projetos open source.</p>
+  <p>💬 Pergunte-me sobre desenvolvimento web e programação, estarei feliz em ajudar.</p>
+</div>
