@@ -22,6 +22,14 @@
 [![iconeinstagram2.png](https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png)](https://www.instagram.com/alinenasc1mento/)
 
 
+<p align="center">
+  <a href="https://www.instagram.com/alinenasc1mento/">
+    <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" alt="Ícone do Instagram" width="50" height="50" onmouseover="this.src='https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png'" onmouseout="this.src='https://i.postimg.cc/VkVY45XS/iconeinstagram.png'">
+  </a>
+</p>
+
+
+
 ## Contribuições
 - 🌱 Estou sempre disposta a colaborar em projetos open source.
 - 💬 Pergunte-me sobre desenvolvimento web e programação, estarei feliz em ajudar.
