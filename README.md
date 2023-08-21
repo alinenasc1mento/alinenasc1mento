@@ -19,11 +19,5 @@
     </a>
     <a href="https://wa.me/21974034310">
     <img height="30em"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- 
     </a>
-  </p>
-
-  <h2 style="color: #114d60;">Contribuições</h2>
-  <p>🌱 Estou sempre disposta a colaborar em projetos open source.</p>
-   
 </div>
