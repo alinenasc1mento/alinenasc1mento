@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+![Fundo](https://via.placeholder.com/800x600/999999/666666?text=+)
  
 # Olá 👋👋👋
 
@@ -21,16 +22,10 @@
 - 🌱 Estou sempre disposta a colaborar em projetos open source.
 - 💬 Pergunte-me sobre desenvolvimento web e programação, estarei feliz em ajudar.
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=dark)
+ 
 
-## Linguagens Mais Utilizadas
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuario&layout=compact&theme=dark)
-
-## Vamos Conectar?
-- 😊 Fique à vontade para me seguir aqui no GitHub e em minhas redes sociais.
-- 📧 Você também pode entrar em contato comigo por e-mail.
-- 🌐 Visite meu site pessoal em [Seu Site Pessoal] (caso tenha um).
+ 
+ 
 
 </body>
 </html>
