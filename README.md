@@ -14,18 +14,18 @@
 
   ## Onde Me Encontrar
 - 📫 Você pode me contatar em:
-  - [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/21974034310)
-  - [![Email](https://img.icons8.com/color/48/000000/email.png)](mailto:poeiraestelar1@gmail.com)
-  - [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alinenasc1mento/)
-
-[![iconeinstagram.png](https://i.postimg.cc/VkVY45XS/iconeinstagram.png)](https://www.instagram.com/alinenasc1mento/)
-[![iconeinstagram2.png](https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png)](https://www.instagram.com/alinenasc1mento/)
-
-
-<p align="center">
+ <p>
   <a href="https://www.instagram.com/alinenasc1mento/">
-    <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" alt="Ícone do Instagram" width="130" height="auto" onmouseover="this.src='https://i.postimg.cc/g0LG7dKg/iconeinstagram2.png'" onmouseout="this.src='https://i.postimg.cc/VkVY45XS/iconeinstagram.png'">
+    <img src="https://i.postimg.cc/VkVY45XS/iconeinstagram.png" width="130" height="auto" >
   </a>
+    <a href="mailto:poeiraestelar1@gmail.com">
+    <img src="https://i.postimg.cc/pXkVhsTJ/iconegmail.png" width="130" height="auto" 
+     </a>
+
+<a href="https://wa.me/21974034310">
+    <img src="https://i.postimg.cc/d1MJPXHw/iconewhatsapp.png"width="130" height="auto" >
+</a>
+
 </p>
 
 
